@@ -1,0 +1,5 @@
+theme: jekyll-theme-architect
+title: Welcome to the SWIN Project
+description: Proposal to Create an IoT Network in Cornwall
+github:
+  is_project_page: false
